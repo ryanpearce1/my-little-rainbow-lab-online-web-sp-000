@@ -11,5 +11,17 @@ div {
 }
 
 #red {
-  border-top-color: 
+  border-top-color: #f00;
+}
+
+#orange {
+  border-top-color: #ffa500;
+}
+
+#yellow {
+  border-top-color: #ff0;
+}
+
+#green {
+  border
 }
